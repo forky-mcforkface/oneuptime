@@ -171,7 +171,7 @@
     "universal-cookie": "^7.2.1",
     "use-async-effect": "^2.2.6",
     "web-push": "^3.6.7",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "overrides": {
     "lodash-es": "^4.18.0",
