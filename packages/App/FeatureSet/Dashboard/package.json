@@ -39,7 +39,7 @@
     "@stripe/stripe-js": "^1.44.1",
     "Common": "file:../../../Common",
     "ejs": "^3.1.10",
-    "i18next": "^23.16.8",
+    "i18next": "^27.2.6",
     "i18next-browser-languagedetector": "^8.2.1",
     "jspdf": "^4.2.1",
     "jspdf-autotable": "^5.0.8",
